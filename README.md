@@ -2,12 +2,12 @@
 
 ## Desenvolvedores
 
-### Eduardo Augusto
-[Linkedin](https://www.linkedin.com/in/eduardo-a-m-junior/) | [Github](https://github.com/eduardoamjunior)
-### Igor Gerlach
-[Linkedin](https://www.linkedin.com/in/igor-costa-gerlach-a9a777294/) | [Github](https://github.com/gerlachsg)
-### Jorge Lucas
-[Linkedin](https://www.linkedin.com/in/jorge-lucas-fernandes-2a848034b/)
+###-  Eduardo Augusto
+  [Linkedin](https://www.linkedin.com/in/eduardo-a-m-junior/) | [Github](https://github.com/eduardoamjunior)
+###- Igor Gerlach
+  [Linkedin](https://www.linkedin.com/in/igor-costa-gerlach-a9a777294/) | [Github](https://github.com/gerlachsg)
+###- Jorge Lucas
+  [Linkedin](https://www.linkedin.com/in/jorge-lucas-fernandes-2a848034b/)
 
 ## Requisitos
 
