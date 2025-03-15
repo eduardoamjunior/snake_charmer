@@ -1,5 +1,10 @@
 # Jogo da cobrinha com movimento da mão
 
+## Sobre
+
+Um projeto desenvolvido na intenção de aprendizado sobre pygame e machine learning usando python.
+O Snake Charmer é inspirado nos domadores de cobras da índia onde eles hipnotizam e controlam as cobras utilizando de movimentos e o som da flauta, neste jogo você irá controlar a "cobra" com as mãos, utilizando movimentos identificados por Inteligência Artificial e traduzido em comandos.
+
 ## Desenvolvedores
 
 ### Eduardo Augusto
