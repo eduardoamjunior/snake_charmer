@@ -41,7 +41,7 @@ Execute o "jogo.py"
 
 ## Erros comuns
 
-###Detectar a camera
+### Detectar a camera
 Configuração do caminho da camera, pode variar entre 0,1,2...
 
 Na linha 14 onde está localizado
