@@ -11,11 +11,11 @@ Apresentado na aula do Marcello Tuba na Faculdade SENAI Félix Guisard no dia 14
 
 ## Desenvolvedores
 
-###       Eduardo Augusto
+###­       Eduardo Augusto
   [Linkedin](https://www.linkedin.com/in/eduardo-a-m-junior/) | [Github](https://github.com/eduardoamjunior)
-###       Igor Gerlach
+### ­      Igor Gerlach
   [Linkedin](https://www.linkedin.com/in/igor-costa-gerlach-a9a777294/) | [Github](https://github.com/gerlachsg)
-###       Jorge Lucas
+###   ­    Jorge Lucas
   [Linkedin](https://www.linkedin.com/in/jorge-lucas-fernandes-2a848034b/)
 
 ## Requisitos
