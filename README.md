@@ -3,7 +3,11 @@
 ## Sobre
 
 Um projeto desenvolvido na intenção de aprendizado sobre pygame e machine learning usando python.
+
 O Snake Charmer é inspirado nos domadores de cobras da índia onde eles hipnotizam e controlam as cobras utilizando de movimentos e o som da flauta, neste jogo você irá controlar a "cobra" com as mãos, utilizando movimentos identificados por Inteligência Artificial e traduzido em comandos.
+
+Apresentado na aula do Marcello Tuba na Faculdade SENAI Félix Guisard no dia 14/03/2025, utilizando o canva para explicação do código:
+  [Apresentação Canva](https://www.canva.com/design/DAGhqEP9WDU/889_HNweJNsRFMV8iU_y1g/edit?utm_content=DAGhqEP9WDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Desenvolvedores
 
