@@ -11,7 +11,7 @@ Apresentado na aula do Marcello Tuba na Faculdade SENAI Félix Guisard no dia 14
 
 ## Desenvolvedores
 
-###­ ㅤㅤEduardo Augusto
+### ㅤㅤEduardo Augusto
   [Linkedin](https://www.linkedin.com/in/eduardo-a-m-junior/) | [Github](https://github.com/eduardoamjunior)
 ### ㅤㅤIgor Gerlach
   [Linkedin](https://www.linkedin.com/in/igor-costa-gerlach-a9a777294/) | [Github](https://github.com/gerlachsg)
